@@ -1,5 +1,5 @@
 {
-  "name": "[BotEngine.ai] - node.js webhook example",
+  "name": "botengine-webhook-example",
   "description": "Node.js webhook example using Cloud Functions for Firebase",
   "version": "0.0.1",
   "author": "BotEngine.ai",
