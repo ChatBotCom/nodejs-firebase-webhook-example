@@ -10,8 +10,7 @@
   "dependencies": {
     "actions-on-google": "^1.0.0",
     "firebase-admin": "^4.2.1",
-    "firebase-functions": "^0.5.7",
-    "querystring": "^0.2.0"
+    "firebase-functions": "^0.5.7"
   },
   "engines": {
     "node": "~6.0"
